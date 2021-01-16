@@ -1,0 +1,121 @@
+﻿  main.c
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(53,32): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(54,68): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(55,36): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(56,15): warning C4133: '함수': 'tree *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(56,26): warning C4020: 'reConstruct': 실제 매개 변수가 너무 많습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(59,31): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(59,31): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(62,21): warning C4133: '함수': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(63,15): warning C4133: '함수': 'tree *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(63,18): warning C4020: 'LL_rotate': 실제 매개 변수가 너무 많습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(66,15): warning C4133: '함수': 'tree *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(66,18): warning C4020: 'LR_rotate': 실제 매개 변수가 너무 많습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(70,22): warning C4133: '함수': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(71,15): warning C4133: '함수': 'tree *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(71,18): warning C4020: 'RR_rotate': 실제 매개 변수가 너무 많습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(74,15): warning C4133: '함수': 'tree *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(74,18): warning C4020: 'RL_rotate': 실제 매개 변수가 너무 많습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(79,44): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(79,44): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(88,22): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(96,34): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(96,34): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(107,21): warning C4133: '==': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(123,18): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(124,17): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(133,17): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(134,19): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(136,17): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(137,18): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(145,17): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(148,18): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(150,18): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(98,1): warning C4133: '초기화 중': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(99,1): warning C4133: '초기화 중': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(127,1): warning C4133: '초기화 중': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(155,34): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(155,34): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(166,21): warning C4133: '==': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(182,18): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(183,16): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(192,18): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(194,16): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(195,18): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(203,17): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(206,18): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(208,18): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(157,1): warning C4133: '초기화 중': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(158,1): warning C4133: '초기화 중': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(186,1): warning C4133: '초기화 중': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(213,34): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(213,34): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(214,22): warning C4133: '함수': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(218,34): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(218,34): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(219,23): warning C4133: '함수': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(227,11): warning C4133: '함수': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(232,23): warning C4033: 'get_bf'은(는) 값을 반환해야 합니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(233,27): warning C4133: '함수': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(233,50): warning C4133: '함수': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(252,23): warning C4133: '함수': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(259,24): warning C4133: '함수': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(273,71): warning C4133: '함수': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(274,75): warning C4133: '함수': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(275,77): warning C4133: '함수': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(275,107): warning C4133: '함수': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(287,46): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(292,48): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(303,34): warning C4133: '==': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(318,34): warning C4133: '==': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(318,63): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(319,36): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(320,32): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(335,34): warning C4133: '==': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(335,64): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(336,37): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(337,33): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(343,55): warning C4133: '함수': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(351,23): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(352,24): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(353,25): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(355,43): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(356,43): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(359,29): warning C4133: '==': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(359,51): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(360,30): warning C4133: '=': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(302,1): warning C4133: '초기화 중': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(310,1): warning C4133: '초기화 중': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(316,1): warning C4133: '초기화 중': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(317,1): warning C4133: '초기화 중': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(327,1): warning C4133: '초기화 중': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(333,1): warning C4133: '초기화 중': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(334,1): warning C4133: '초기화 중': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(344,1): warning C4133: '초기화 중': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(345,1): warning C4133: '초기화 중': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(346,1): warning C4133: '초기화 중': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(370,47): warning C4133: '함수': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(371,49): warning C4133: '함수': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\DB.h(68,52): warning C4133: '함수': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\DB.h(69,54): warning C4133: '함수': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\DB.h(82,51): warning C4133: '함수': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\DB.h(83,53): warning C4133: '함수': 'node *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\queue.h(51,27): warning C4133: '=': 'Qnode *'과(와) 'Qnode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\queue.h(52,26): warning C4133: '=': 'Qnode *'과(와) 'Qnode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\queue.h(69,1): warning C4133: '초기화 중': 'Qnode *'과(와) 'Qnode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\queue.h(96,22): warning C4133: '=': 'Qnode *'과(와) 'Qnode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\queue.h(107,14): warning C4098: 'deleteHead': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\queue.h(115,1): warning C4133: '초기화 중': 'Qnode *'과(와) 'Qnode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\main.c(29,7): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\main.c(70,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\main.c(189,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\main.c(205,8): warning C4101: 'singerData' :참조되지 않은 지역 변수입니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\main.c(274,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\main.c(439,10): warning C4098: 'main_page': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\main.c(469,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\main.c(472,7): warning C4101: 'title_name' :참조되지 않은 지역 변수입니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(234): warning C4715: 'get_bf': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(261): warning C4715: 'find': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\AVLtree.h(364): warning C4715: 'deleteNode': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\DataStructure_termProject_ESGkaraoke\queue.h(41): warning C4716: 'create': 값을 반환해야 합니다.
+  DataStructure_termProject_ESGkaraoke.vcxproj -> C:\Users\aver2\Desktop\ESG노래방\제출\소스코드\DataStructure_termProject_ESGkaraoke\Debug\DataStructure_termProject_ESGkaraoke.exe
